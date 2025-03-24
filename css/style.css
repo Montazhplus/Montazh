@@ -81,7 +81,7 @@ a {
 
 .pb {
     height: 100%;
-    background: #f44;
+    background: rgb(41, 41, 41);
     width: 0%;
 }
 
@@ -104,7 +104,7 @@ li > a:before {
     position: absolute;
     content: "";
     width: 0;
-    border-bottom: 2px solid #f44;
+    border-bottom: 2px solid rgb(41, 41, 41);
     transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
     left: 50%;
     bottom: 25px;
@@ -171,7 +171,7 @@ li > a:hover:before {
     position: absolute;
     content: "";
     width: 0;
-    border-bottom: 3px solid #f45;
+    border-bottom: 3px solid rgb(41, 41, 41);
     transition: width 1.4s, left 1.4s;
     left: 50%;
     top: 50px;
